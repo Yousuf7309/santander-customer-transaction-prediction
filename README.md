@@ -47,7 +47,7 @@ A binary classification project built using **Logistic Regression** to identify 
 
 ## 📊 ROC Curve Comparison
 
-![ROC Curve](ROC Curve.png)
+![ROC Curve](ROC_Curve.png)
 
 ---
 
@@ -86,7 +86,7 @@ To keep the repo size small, you can:
 
 ## 📮 Contact
 
-Feel free to connect on [LinkedIn]([https://www.linkedin.com/in/yousufmohammed-989aaa1b8 ]) or drop a message!
+Feel free to connect on LinkedIn - https://www.linkedin.com/in/yousufmohammed-989aaa1b8 or drop a message!
 
 ---
 
