@@ -47,7 +47,10 @@ A binary classification project built using **Logistic Regression** to identify 
 
 ## 📊 ROC Curve Comparison
 
-![ROC Curve](ROC Curve.png)
+## 📈 ROC Curve
+
+![ROC Curve](ROC%20Curve.png)
+
 
 ---
 
